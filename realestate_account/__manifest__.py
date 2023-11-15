@@ -2,7 +2,7 @@
     'name': "Real-Estate Accounting",
     'version': "14.0.1.0.0",
     'sequence': '-100',
-    'author': "Sameem Arshad",
+    'author': "Asad Ali",
     'description': """Real-Estate Management for Axiom World""",
     'category': "Real Estate",
     'depends': ['realestate', 'account'],
